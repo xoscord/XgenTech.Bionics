@@ -1,9 +1,5 @@
 Folder | Directory Specifications  --->
 
-
-
-
-
 XgenTech.Bionics
 
           '--> Python = " it contains `python projects source codes` "
